@@ -2,8 +2,6 @@ package practice;
 
 
 //djshfkhshfhj
-//comment test
-//hdsjfksffj test3
 
 public class Appu {
 
